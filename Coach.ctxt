@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Coach
+comment0.text=\r\n\ Subclass\ of\ the\ superclass\ Member\r\n\r\n\ @author\ Christian\ Zaccaria\r\n\ @version\ 01/04/2021\r\n
+comment1.params=name\ address\ gender\ dateOfGardaClearance
+comment1.target=Coach(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDateOfGardaClearance()
+comment3.params=dateOfGardaClearance
+comment3.target=void\ setDateOfGardaClearance(java.lang.String)
+comment4.params=
+comment4.target=double\ calcMembership()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

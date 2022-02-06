@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Member
+comment0.text=\r\n\ Abstract\ superclass\ Member\ with\ common\ variables,\ implements\ iGAAMember\ interface\r\n\r\n\ @author\ Christian\ Zaccaria\r\n\ @version\ 01/04/2021\r\n
+comment1.params=name\ address\ gender
+comment1.target=Member(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getAddress()
+comment4.params=
+comment4.target=java.lang.String\ getGender()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=address
+comment6.target=void\ setAddress(java.lang.String)
+comment7.params=gender
+comment7.target=void\ setGender(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

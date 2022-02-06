@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=YouthPlayer
+comment0.text=\r\n\ Subclass\ of\ Member\ superclass\r\n\r\n\ @author\ Christian\ Zaccaria\r\n\ @version\ 01/04/2021\r\n
+comment1.params=name\ address\ gender\ nextOfKinName\ nextOfKinPhone
+comment1.target=YouthPlayer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNextOfKinName()
+comment3.params=
+comment3.target=java.lang.String\ getNextOfKinPhone()
+comment4.params=nextOfKinName
+comment4.target=void\ setNextOfKinName(java.lang.String)
+comment5.params=nextOfKinPhone
+comment5.target=void\ setNextOfKinPhone(java.lang.String)
+comment6.params=
+comment6.target=double\ calcMembership()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
